@@ -25,8 +25,10 @@ public class HyAnnotationGoal extends AbstractMojo {
     private String name;
 
     public void execute() throws MojoExecutionException, MojoFailureException{
-        getLog().error("name: " + name);
+//        getLog().error("name: " + name);
+        getLog().error("++++++++++++++++++++");
         getLog().error("hy-plugin-execute-by-annotation");
-        getLog().error("age: " + age);
+        getLog().error("++++++++++++++++++++");
+//        getLog().error("age: " + age);
     }
 }

@@ -4,7 +4,7 @@
 
   <groupId>com.sun.yelw</groupId>
   <artifactId>hy-maven-plugin</artifactId>
-  <version>3.5.1</version>
+  <version>V1.0.0</version>
   <packaging>maven-plugin</packaging>
 
   <name>mvn-demo</name>

@@ -32,7 +32,7 @@ public class HyDocGoal extends AbstractMojo {
 
         getLog().error("++++++++++++++++++++");
         getLog().error("hy-plugin-execute-by-document");
-        getLog().error("name: " + name + ", age: " + age);
+//        getLog().error("name: " + name + ", age: " + age);
         getLog().error("++++++++++++++++++++");
 
     }
